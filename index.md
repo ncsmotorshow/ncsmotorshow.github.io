@@ -7,6 +7,8 @@ hero:
   text: "A VitePress Site"
   #tagline: My great project tagline
   image: "https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/358/posts/22550/final_image/00-final-product.png"
+  
+  CIAOOOOOOOOOO
   actions:
     - theme: brand
       text: Markdown Examples

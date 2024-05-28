@@ -8,15 +8,13 @@ hero:
   #tagline: My great project tagline
   image: "https://cms-assets.tutsplus.com/cdn-cgi/image/width=600/uploads/users/358/posts/22550/final_image/00-final-product.png"
   
-  details: CIAOOOOOO
-  
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Eventi
+      link: /Eventi
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Storia
+      link: /Storia
 
 features:
   - title: Feature A
